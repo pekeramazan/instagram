@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295772007399",
+    "firebase_url": "https://nargilem-820dc.firebaseio.com",
+    "project_id": "nargilem-820dc",
+    "storage_bucket": "nargilem-820dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295772007399:android:51d747f7dee6259d332b42",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295772007399-kb7qe6h8tljpkeusqdevkfc1qmvkr0b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram",
+            "certificate_hash": "316f769b50b1fe9c845b15c49db95e9f3000c99e"
+          }
+        },
+        {
+          "client_id": "295772007399-qh6dve56jb5f8ucgm9fv02uim4tu8mru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqu6JGfDppC2YlpKpEGD6qU-vSCoUO2d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295772007399-qh6dve56jb5f8ucgm9fv02uim4tu8mru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
